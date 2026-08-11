@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight](https://www.linkedin.com/in/tirupati-padwal-53777a373?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 
