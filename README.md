@@ -37,18 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight](https://www.linkedin.com/in/tirupati-padwal-53777a373?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-
----
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
