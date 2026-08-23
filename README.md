@@ -34,7 +34,8 @@
 ##  📂 Projects
 
 - Campus Study Spot Finder
-
+  
+---
 
 ## 🔥 GitHub Streak
 
